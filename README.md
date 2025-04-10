@@ -18,6 +18,10 @@
 - [ROS Index](https://index.ros.org/)
 - [ROS 2 文档](https://docs.ros.org/en/rolling/index.html)
 
+## B站优秀的ROS课程
+- [机器人工匠阿杰 ROS 快速入门教程](https://www.bilibili.com/video/BV1BP4y1o7pw/) - 非常优秀的入门实践课程
+- [ROS2入门教程](https://www.bilibili.com/video/BV1Ci4y1L7ZZ) - ROS2新版本入门指南
+
 ## 学习资源
 - [ROS 教程](http://wiki.ros.org/ROS/Tutorials)
 - [ROS 2 教程](https://docs.ros.org/en/rolling/Tutorials.html)
